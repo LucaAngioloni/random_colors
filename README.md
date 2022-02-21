@@ -1,11 +1,10 @@
 # random_colors
 
-<!-- ![random_colors_gif](imgs/random_colors.gif) -->
-<video src='imgs/random_colors.mp4' width="100%"/>
-
 Random color dots generation using P5.js
 
 The colors are generated using Perlin noise.
+
+<https://user-images.githubusercontent.com/12626501/155033106-817eb834-7371-4a56-a305-bba8c61dc546.mp4>
 
 ## Demo
 
